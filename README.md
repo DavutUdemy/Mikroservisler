@@ -72,6 +72,5 @@ Son olarak GateWay Deyinmek Istiyorum
 Iki db icinde gateway kullandik.
 Atilan requestler gateway yani api son haline gidiyor request ve responselardan gateway sorumludur
 
-![image](https://user-images.githubusercontent.com/61990003/118194413-633e0f80-b45a-11eb-9c4c-16a67eb38ff3.png)
 
 USED TECHNOLOGIES :SPRING BOOT SPRING CLOUD SPRING DATA JPA LOMBOK H2 DATABASE ZIPKIN EUREKA HYSTRIX AND  GATEAWAY 
